@@ -6,11 +6,10 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 50px;
   background:  #3b3a3a;
 }
 .container{
-  max-width: 500px;
+  max-width: 100%;
   width: 100%;
   height: 100%;
   background-color: rgba(255,255,255);
@@ -39,7 +38,8 @@ body{
 }
 .content form .user-details{
   /*display: flex;
-  flex-wrap: wrap;*/
+  flex-wrap: wrap;
+*/
   height: 100%;
   justify-content: space-between;
   margin: 20px 0 20px 0;
@@ -77,7 +77,8 @@ form .input-box span.details{
   color: black;
 }
 form .category{
-   /*display: flex;*/
+   /*display: flex;
+*/
    width: 100%;
    margin: 14px 0 ;
    justify-content: space-between;
@@ -130,7 +131,8 @@ form .category{
 }
 
 
-/*
+
+/*
   @media(max-width: 584px){
  .container{
   max-width: 100%;
