@@ -6,7 +6,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background:  #3b3a3a;
+  background:  yellow;
 }
 .container{
   max-width: 100%;
