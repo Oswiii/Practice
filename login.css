@@ -132,7 +132,7 @@ form .category{
 
 
 
-/*
+
   @media(max-width: 584px){
  .container{
   max-width: 100%;
@@ -151,4 +151,4 @@ form .user-details .input-box{
   .user-details::-webkit-scrollbar{
     width: 5px;
   }
-*/
+
